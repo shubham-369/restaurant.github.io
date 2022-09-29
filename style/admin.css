@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+iframe{
+	height: 100vh;
+	width: 100%;
+	border: none;
+}
+.left{
+    height: 100vh;
+    background-color: #dc3545;
+}
+.container{
+    margin: 3rem;
+}
+
+.right{
+    height: 100vh;
+    background-color: wheat;
+}
